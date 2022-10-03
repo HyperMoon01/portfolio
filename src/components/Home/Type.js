@@ -9,7 +9,7 @@ function Type() {
           "Coder",
           "Heavy Gamer~",
           "A verified Discord Developer!",
-          "And Jianna is a mote",
+          "Proud Student of ASH",
           
         ],
         autoStart: true,
