@@ -13,7 +13,7 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Juan Shaju</h3>
+          <h3>Designed and Developed by Juan | Moon</h3>
         </Col>
         <Col md="4" className="footer-copywright">
           <h3>Copyright © {year} JS</h3>
@@ -32,7 +32,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://twitter.com/hypermoon01"
+                href="https://twitter.com/j._.huan"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"

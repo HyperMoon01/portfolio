@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Juan Shaju </span>
             from <span className="purple"> Ottawa, Canada</span>
-            <br />I am a college student, Gamer, Developer
+            <br />I am a High school student, Gamer, Developer
             <br />
             <br />
             Apart from daily life routine, some other activities that I love to do!

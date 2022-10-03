@@ -84,7 +84,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://blogs.soumya-jit.tech/"
+                href="https://github.com/hypermoon01"
                 target="_blank"
                 rel="noreferrer"
               >
