@@ -50,6 +50,7 @@ function Footer() {
                 <FaLinkedinIn />
               </a>
             </li>
+            <li className="social-icons">
             <a
                 href="https://www.instagram.com/j._.huan"
                 style={{ color: "white" }}
@@ -58,7 +59,7 @@ function Footer() {
               >
                 <AiFillInstagram />
               </a>
-          </ul>
+          </li>
         </Col>
       </Row>
     </Container>
