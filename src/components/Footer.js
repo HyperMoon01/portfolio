@@ -50,7 +50,14 @@ function Footer() {
                 <FaLinkedinIn />
               </a>
             </li>
-            
+            <a
+                href="https://www.instagram.com/j._.huan"
+                style={{ color: "white" }}
+                target="_blank" 
+                rel="noopener noreferrer"
+              >
+                <AiFillInstagram />
+              </a>
           </ul>
         </Col>
       </Row>
