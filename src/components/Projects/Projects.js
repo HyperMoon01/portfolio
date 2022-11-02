@@ -64,6 +64,23 @@ function Projects() {
               
             />
           </Col>
+
+          <Col md={4} className ="project-card">
+            <ProjectCard
+                 imgPath={leaf}
+                 isBlog={false}
+                 title="Short Game Development"
+                 descriptoin="Short Game development using Wick Editor."
+                 />
+          </Col>
+          <Col md={4} className ="project-card">
+            <ProjectCard
+                 imgPath={leaf}
+                 isBlog={false}
+                 title="Bird Animation [ADOBE ANIMATE]"
+                 descriptoin="A small 8 second Bird Animation using Adobe Animate 2022, collaborated with Dylan Miles."
+                 />
+          </Col>
         </Row>
       </Container>
     </Container>
