@@ -37,10 +37,10 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="CalDa Website"
-              description="CalDa web page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
+              title="Sussy Game"
+              description="This game has sussy among us characters, with a sus background :D"
               ghLink="https://github.com/hypermoon01"
-              demoLink="https://calda.tk"
+              demoLink="https://mistamoon.ga"
             />
           </Col>
 
@@ -48,8 +48,8 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="Replink Discord Bot"
-              description="An Advanced Reputation Bot Perfect For any Server needing a Reputation Counter!"
+              title="Bird Animation"
+              description="An Animation featuring a bird trying to fly for the first time. ANIMATION PARTNER - DYLAN MILES"
               ghLink="https://github.com/hypermoon01"
             />
           </Col>
@@ -58,8 +58,8 @@ function Projects() {
             <ProjectCard
               imgPath={leaf}
               isBlog={false}
-              title="CalTic"
-              description="An advanced ticket system for Discord communitys to take care of members with EZ! (In development)"
+              title="Pixel Art"
+              description="A series of pixel arts done be me, and compiled into a collage!"
               ghLink="https://github.com/hypermoon01"
               
             />
